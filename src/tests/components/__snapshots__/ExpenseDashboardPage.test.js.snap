@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseDashboardPage correctly 1`] = `ShallowWrapper {}`;
+
+exports[`should render NotFoundPage correctly 1`] = `ShallowWrapper {}`;

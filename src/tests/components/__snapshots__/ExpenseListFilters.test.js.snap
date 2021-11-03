@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseListFilters correctly 1`] = `ShallowWrapper {}`;
+
+exports[`should render ExpenseListFilters with alt data correctly 1`] = `ShallowWrapper {}`;
+
+exports[`should render ExpenseListFilters with alt data correctly 2`] = `ShallowWrapper {}`;
+
+exports[`should render ExpenseListFilters with alt data correctly 3`] = `ShallowWrapper {}`;
+
+exports[`should render ExpenseListFilters with alt data correctly 4`] = `ShallowWrapper {}`;
+
+exports[`should render ExpenseListFilters with alt data correctly 5`] = `ShallowWrapper {}`;
+
+exports[`should sort by amount 1`] = `ShallowWrapper {}`;
+
+exports[`should sort by date 1`] = `ShallowWrapper {}`;
