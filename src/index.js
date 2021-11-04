@@ -18,16 +18,6 @@ import AuthInfo from './playground/hoc';
 
 const store = configureStore();
 
-store.dispatch(addExpense({description:'Water bill', amount: 4500, createdAt: 45100}));
-store.dispatch(addExpense({description:'Gas bill', amount: 800, createdAt: 3000}));
-store.dispatch(addExpense({description:'Rent', amount: 109500, createdAt: -1000}));
-
-const state= store.getState();
-const visibleExpenses = getVisibleExpenses(state.expenses, state.filters);
-
-console.log(visibleExpenses);
-
-
 ReactDOM.render(
     <Provider store={store}>
         <App/>
