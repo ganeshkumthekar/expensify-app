@@ -15,6 +15,7 @@ import 'react-dates/lib/css/_datepicker.css';
 import Info from './playground/hoc';
 import AdminInfo from './playground/hoc';
 import AuthInfo from './playground/hoc';
+import './firebase/firebase.js';
 
 const store = configureStore();
 
